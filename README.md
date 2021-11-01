@@ -1,0 +1,1 @@
+This repository contains a website built for the Odin Project to practice HTML skills.
